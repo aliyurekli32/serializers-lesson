@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     
     #myapps
     'student_api',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
